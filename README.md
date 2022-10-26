@@ -18,3 +18,7 @@ morfologicas y el umbralizado. Las mascaras de citoplasma se obtuvieron realizan
 resta de las mascaras con nucleos a las mascaras totales. En cuanto a la clasificacion
 se analizaron distintas metricas para poder identificar los
 distintos tipos de celulas.
+
+# NBviewer Link
+
+https://nbviewer.org/github/mtorlaschi/PIB_Final/blob/main/TpCuatrimestral.ipynb
